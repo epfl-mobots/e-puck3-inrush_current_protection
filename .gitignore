@@ -1,0 +1,5 @@
+**/History/
+**/__Previews/
+*.PrjPCBStructure
+**/Outputs/
+*.DS_Store
